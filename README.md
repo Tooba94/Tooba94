@@ -72,11 +72,6 @@
 📄 Securing IIoT Against Botnet Attacks Using Hybrid Deep Learning (IEEE, 2022)
 📄 SDN Control Plane for Enhanced IoT Security (IEEE NetSoft, 2020)
 
-
-## 📈 GitHub Stats
-
-![Tooba's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
 ---
 
 ## 🤝 Connect With Me
