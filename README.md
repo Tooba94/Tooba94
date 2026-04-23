@@ -61,7 +61,7 @@
 🏅 **Certified Ethical Hacker Practical (CEH) – 2024**  
 🏅 **ISO/IEC 27001 Information Security Associate – 2023**  
 🏅 **Microsoft Azure Penetration Testing – 2023** 
-🏅 **Cisco CCNA Security – 2023** 
+🏅 **CISCO CCNA Security – 2023** 
 🏅 **OSCP – 2023** 
 🏅 **CCSP (AWS) – 2023** 
 🏅 **CISSP – 2023**
