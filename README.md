@@ -58,7 +58,8 @@
 ---
 
 ## 🏆 Achievements & Certifications
-🏅 **Certified Ethical Hacker Practical (CEH) – 2024**
+🏅 **Certified Ethical Hacker Practical (CEH) – 2024
+**
 🏅 ISO/IEC 27001 Information Security Associate – 2023
 🏅 Microsoft Azure Penetration Testing – 2023
 🏅 OSCP – 2023
