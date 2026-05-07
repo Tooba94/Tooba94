@@ -66,12 +66,12 @@
 🏅 **CCSP (AWS) – 2023** 
 🏅 **CISSP – 2023**
 
-
 ---
 
-📚 Publications
-📄 Securing IIoT Against Botnet Attacks Using Hybrid Deep Learning (IEEE, 2022)
-📄 SDN Control Plane for Enhanced IoT Security (IEEE NetSoft, 2020)
+## 📚 Publications
+📄 **Securing IIoT Against Botnet Attacks Using Hybrid Deep Learning (IEEE, 2022)**
+📄 **SDN Control Plane for Enhanced IoT Security (IEEE NetSoft, 2020)**
+📄 **Scalable and Resilient AI Framework for Malware Detection in Software-Defined Internet of Things Computers, Materials & Continua 2026**
 
 ---
 
