@@ -21,35 +21,45 @@
 
 🛠️ Tech Stack
 
-💻 Virtualization & Infrastructure
+## 💻 Virtualization & Infrastructure
 
-* VMware | ESXi | Proxmox
-* Server Management & Clustering
-* Network Load Balancing (NLB)
-* Failover Cluster
+- VMware | ESXi | Proxmox
+- Server Management & Clustering
+- Network Load Balancing (NLB)
+- Failover Cluster
+- Windows & Linux Server Administration
+- Web Hosting & Server Deployment
 
-🔐 Security & Networking
+## 🔐 Security & Networking
 
-* Fortinet Firewall | Sophos Firewall
-* Network Troubleshooting (Core → End-user)
-* Symantec Endpoint Security
+- Fortinet Firewall | Sophos Firewall
+- Symantec Endpoint Security
+- Network Troubleshooting (Core → End-user)
+- Active Directory Administration
+- Biometric Management Systems
+- CCTV / Camera Integration
 
-📊 Monitoring & SIEM
+## 📊 Monitoring & SIEM
 
-* PRTG
-* Wazuh
+- PRTG
+- Wazuh
+- Infrastructure & Resource Monitoring
 
-🧪 Development & Automation
+## 🧪 Development & Automation
 
-* Web Application Testing
-* API Testing
-* Basic SQL
+- Web Application Testing
+- API Testing
+- Python Scripting for Web Scanning
+- Security Automation
+- Basic SQL
+- DevOps Operations
 
-🤖 AI & Tools
+## 🤖 AI & Tools
 
-* Serverless Architecture
-* OpenClaw
-* LM Studio (AI / LLM Tools)
+- Serverless Architecture
+- OpenClaw
+- LM Studio (AI / LLM Tools)
+- AI Automation Workflows
 
 ---
 
