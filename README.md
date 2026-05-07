@@ -3,15 +3,19 @@
 💼 Datacenter & Infrastructure Engineer | Cybersecurity Professional
 🔐 Security | ☁️ Virtualization | ⚙️ DevOps (Learning) | 🤖 AI Exploration
 
-🚀 About Me
-💼 4+ years experience in Cybersecurity & Datacenter Operations
-🖥️ Expertise in VMware, ESXi, Proxmox & Server Clustering
-🔐 Skilled in Firewall (Fortinet, Sophos) & Endpoint Security (Symantec)
-📊 Experience with Monitoring tools (PRTG, Wazuh SIEM)
-🌐 Strong in Network Troubleshooting (Core → End User)
-🧪 Experience in Web & API Penetration Testing
-⚡ Currently learning Serverless Architecture & DevOps
-🤖 Exploring OpenClaw & LM Studio (AI tools)
+💼 4+ years experience in Cybersecurity, Datacenter & IT Operations  
+🖥️ Expertise in VMware, ESXi, Proxmox & Server Clustering  
+🔐 Skilled in Firewall Management (Fortinet, Sophos) & Endpoint Security (Symantec)  
+📊 Experience with Monitoring & SIEM tools (PRTG, Wazuh)  
+🌐 Strong in Network Troubleshooting (Core → End User)  
+🧪 Experience in Web & API Penetration Testing  
+⚙️ Hands-on with DevOps Operations & Server Management  
+☁️ Experience in Web Hosting on Windows & Linux Servers  
+🐍 Python scripting for Web Scanning & Security Automation  
+🏢 Knowledge of Active Directory Administration & User Management  
+🎥 Experience with Biometric Management Systems & CCTV/Camera Integration  
+⚡ Currently learning Serverless Architecture & Cloud Automation  
+🤖 Exploring OpenClaw, LM Studio & AI/LLM Tools
 
 ---
 
