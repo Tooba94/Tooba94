@@ -78,8 +78,19 @@
 - 🥇 Microsoft Azure Penetration Testing – 2023
 - 🥇 CISCO CCNA Security – 2023
 - 🥇 OSCP – 2023
-- 🥇 CCSP (AWS) – 2023
+- 🥇 Certified Cloud Security Practitioner - AWS (CCSP-AWS) – 2023
+- 🥇 Python for Data Science & AI – 2023
+- 🥇 CompTIA A+ Part 1 & Part 2 – 2023
+- 🥇 Network & Communication Security (ISC) – 2023
+- 🥇 Network Defense Essentials (NDE) – 2023
+- 🥇 Certified AppSec Practitioner (CAP) – 2023
+- 🥇 Ethical Hacking Essentials (EHE) – 2023
+- 🥇 Digital Forensics Essentials (DFE) – 2023
 - 🥇 CISSP – 2023
+- 🥇 Network Security & Database Vulnerabilities – 2022
+- 🥇 Penetration Testing, Incident Response and Forensics – 2022
+- 🥇 Cybersecurity Compliance Framework & System Administration – 2022
+- 🥇 IBM Cybersecurity Analyst – 2022
 
 ---
 
