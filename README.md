@@ -107,7 +107,7 @@
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/tooba-hasan-58316511b/?originalSubdomain=pk
+* 💼 LinkedIn: https://www.linkedin.com/in/tooba-hasan-58316511b
 
 ---
 
