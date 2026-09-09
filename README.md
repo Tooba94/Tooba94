@@ -73,6 +73,9 @@
 
 ## 🏆 Achievements & Certifications
 
+- 🥇 Certified Security Code Review Beginners (CSCRB) - 2026
+- 🥇 Certified LLM Security Professional (CLLMSP) - 2026
+- 🥇 Master in Prompt Engineering and AI - 2026
 - 🥇 Certified Ethical Hacker Practical (CEH) – 2024
 - 🥇 ISO/IEC 27001 Information Security Associate – 2023
 - 🥇 Microsoft Azure Penetration Testing – 2023
